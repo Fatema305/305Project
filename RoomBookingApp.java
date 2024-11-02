@@ -9,6 +9,7 @@ public class RoomBookingApp {
     private Scanner scanner;
 
     // Constructor initializes the booking service and scanner
+    //
     public RoomBookingApp() {
         this.bookingService = new BookingService(new RoomRepository());
         this.scanner = new Scanner(System.in);
