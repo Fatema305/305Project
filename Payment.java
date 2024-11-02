@@ -4,7 +4,7 @@ import java.util.Scanner;
 class Hotel  {
     public static void main(String[] args) {
         Scanner kbd = new Scanner(System.in);
-        Ass.PaymentService paymentService = new Ass.PaymentService();
+        Payment.PaymentService paymentService = new Payment.PaymentService();
         System.out.print("\nPlease enter the total amount to pay on (BD) = ");
         double Totalamount = kbd.nextDouble();
         System.out.println("Please choose you option to pay:");
@@ -38,9 +38,10 @@ class Hotel  {
         } kbd.close();}}
 //The class and methods of business layer
 //The business layer calling methods here from data layer
-public class Ass {
+public class Payment {
     static class PaymentService {
         private PaymentStore payment;
+        //On the payment service method we are storing 
         public PaymentService() {
             this.payment = new PaymentStore();
         }
