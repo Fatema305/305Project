@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bc179c9-53f2-4289-8e04-70425298e122" name="Changes" comment="bookingServiceTest.java">
-      <change afterPath="$PROJECT_DIR$/RoomTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+    <list default="true" id="4bc179c9-53f2-4289-8e04-70425298e122" name="Changes" comment="RoomTest.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,28 @@
       <option name="project" value="LOCAL" />
       <updated>1731763817649</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="RoomTest.java">
+      <created>1731763985556</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731763985556</updated>
+    </task>
+    <task id="LOCAL-00007" summary="RoomTest.java">
+      <created>1731764005883</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731764005883</updated>
+    </task>
+    <task id="LOCAL-00008" summary="RoomTest.java">
+      <created>1731764018140</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731764018140</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +117,7 @@
     <MESSAGE value="RoomServiceTest.java" />
     <MESSAGE value="RoomRepositoryTest.java" />
     <MESSAGE value="bookingServiceTest.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="bookingServiceTest.java" />
+    <MESSAGE value="RoomTest.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="RoomTest.java" />
   </component>
 </project>
