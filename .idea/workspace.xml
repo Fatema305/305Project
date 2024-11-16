@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bc179c9-53f2-4289-8e04-70425298e122" name="Changes" comment="RoomTest.java">
+    <list default="true" id="4bc179c9-53f2-4289-8e04-70425298e122" name="Changes" comment="BookingServicesTest.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1731764018140</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="BookingServicesTest.java">
+      <created>1731764426099</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731764426099</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +125,7 @@
     <MESSAGE value="RoomRepositoryTest.java" />
     <MESSAGE value="bookingServiceTest.java" />
     <MESSAGE value="RoomTest.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="RoomTest.java" />
+    <MESSAGE value="BookingServicesTest.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="BookingServicesTest.java" />
   </component>
 </project>
